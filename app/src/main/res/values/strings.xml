@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SmsAutoReply2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contacts_fragment_title">Contacts</string>
+    <string name="contact_firstName">Prénom</string>
+    <string name="contact_lastName">Nom</string>
+    <string name="contacts_fragment_btn">Confirmer</string>
+    <string name="contact_fragment_resume">Sélectionnez les contacts auxquels vous souhaitez associer une réponse automatique.</string>
+    <string name="message_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="messages_fragment_resume">Quel réponse automatique souhaitez-vous associer à ces contacts ?</string>
+    <string name="messages_fragment_btn">Confirmer</string>
+    <string name="messages_fragment_btn_add_new">Créer une nouvelle réponse</string>
+    <string name="contact_display_name">Nom complet</string>
+    <string name="contacts_permission_denied">L\'application n\'est pas autorisée à accéder à vos contacts.</string>
+    <string name="contact_phone_number">+33678912345</string>
+</resources>
